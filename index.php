@@ -1,3 +1,3 @@
 <?php
 echo phpinfo();
-echo "this is master";
+echo "this is master and feature1";
